@@ -8,7 +8,6 @@ module.exports = {
     author: `@gatsbyjs`,
   },
   plugins: [
-    `gatsby-plugin-emotion`,
     {
       resolve: `gatsby-source-wordpress-experimental`,
       options: {
